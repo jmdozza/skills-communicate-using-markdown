@@ -11,3 +11,6 @@ public static void main (String [] args){
 }
 }
 ```
+- [ ] create readme file
+- [ ] update my images
+- [ ] start coding static methods
